@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Dayane 👋
 
 - 🌱 Estudando Python, JavaScript e HTML
-- 😄 Pronomes: ela/dela 
 
 <div>
   <a href="https://github.com/Deyni">
