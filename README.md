@@ -11,7 +11,7 @@
   <img align="center" alt="Deyni-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Deyni-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deyni-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Deyni-Picrew" height="200" width="200" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_h8bcXh3R.png">
+  <img align="right" alt="Deyni-Picrew" height="200" width="200" src="https://share-cdn.picrew.me/shareImg/org/202108/947708_Ki941NHI.png">
 </div>
   
   ##
