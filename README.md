@@ -1,6 +1,4 @@
-### Olá! Eu sou a Dayane 👋
-
-- 🌱 Estudando Python, JavaScript e HTML
+### Olá! Eu sou a Dayane :hugs:
 
 <div>
   <a href="https://github.com/Deyni">
