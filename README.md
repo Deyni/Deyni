@@ -6,10 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyni&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Deyni-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Deyni-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deyni-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Deyni-Picrew" height="400" width="400" src="https://user-images.githubusercontent.com/83479116/135895355-dbf69af3-f1ad-4abb-8627-c3df0e4f2046.png">
+  <img align="center" alt="Deyni-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="Deyni-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
+  <img align="center" alt="Deyni-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="right" alt="Deyni-Picrew" height="200" width="200" src="https://i.pinimg.com/564x/4d/b7/89/4db78918ede21d3bd8ea9e6c20720ac1.jpg">
 </div>
   
   ##
